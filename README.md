@@ -4,7 +4,7 @@
 
 # Descrição
 
-- <strong>Projeto simples porém com bastante ensinamento, fizemos uma aplicação FullStack e conseguimos até mesmo colocar ela no ar usando o Netlify(https://gabrielmga.netlify.app/)
+- <strong>Projeto simples porém com bastante ensinamento, fizemos uma aplicação FullStack e conseguimos até mesmo colocar ela no ar usando o Netlify(https://gabrielmga.netlify.app/ , obs:ele demora um pouco para fazer a listagem.)
 ela consta com um sistema de listagem de dados por data, e até mesmo um sistema de notificação por SMS usando a Twilio e Heroku.</strong>
 
 # Tecnologias
